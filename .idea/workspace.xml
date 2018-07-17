@@ -9,37 +9,30 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25d93adb-76a8-48f6-b875-811e28e5917e" name="Default" comment="comm">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_alpha3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_alpha3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/HomeFragment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/LogoutFragment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/PaymentFragment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/ProfileFragment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/TransactionFragment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_logout.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_payment.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_transaction.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/drawer_view.xml" />
+    <list default="true" id="25d93adb-76a8-48f6-b875-811e28e5917e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/HomeFragments/BorrowFragment.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/HomeFragments/CalenderFragment.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/HomeFragments/LendFragment.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/HomeFragments/MessageFragment.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_borrow.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_calender.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_lend.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_message.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/home_bottom_navigation.xml" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/HomeFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/HomeFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,25 +58,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fragment_logout.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_logout.xml">
+      <file leaf-file-name="HomeFragment.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/HomeFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogoutFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/LogoutFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="136">
+              <caret line="56" column="16" lean-forward="true" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2212#3474#0" expanded="true" />
+                <element signature="e#3473#3474#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,202 +75,46 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="96" column="7" lean-forward="true" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
+            <state relative-caret-position="446">
+              <caret line="135" column="62" lean-forward="false" selection-start-line="135" selection-start-column="47" selection-end-line="135" selection-end-column="62" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2265#2285#0" expanded="true" />
+                <element signature="e#2288#2309#0" expanded="true" />
+                <element signature="e#3926#4221#0" expanded="true" />
+                <element signature="e#4220#4221#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ids.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/values/ids.xml">
+      <file leaf-file-name="ProfileFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/ProfileFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="75" column="24" lean-forward="false" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+            <state relative-caret-position="1106">
+              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DrawerLayout.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/51146699ea05ac002eff4c0ac4e404ca/jars/classes.jar!/android/support/v4/widget/DrawerLayout.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="1157" column="31" lean-forward="false" selection-start-line="1157" selection-start-column="31" selection-end-line="1157" selection-end-column="31" />
-              <folding>
-                <marker date="1531248199762" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1531248199762" expanded="false" signature="149:1991" ph="..." />
-                <marker date="1531248199762" expanded="false" signature="4719:4730" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="4764:4770" ph=" }" />
-                <marker date="1531248199762" expanded="true" signature="4852:4892" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="4988:7681" ph="{...}" />
-                <marker date="1531248199762" expanded="false" signature="6744:6908" ph="onApplyWindowInsets(view, insets) → {" />
-                <marker date="1531248199762" expanded="false" signature="7163:7186" ph="}" />
-                <marker date="1531248199762" expanded="true" signature="7735:8027" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="8067:8154" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="8255:8441" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="8513:9135" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="9206:9305" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="9358:9426" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="9432:9450" ph="/**...*/" />
-                <marker date="1531248199762" expanded="true" signature="9539:9774" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="9857:10058" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="10144:10300" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="10350:10447" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="10514:11543" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="11619:11975" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="12027:13436" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="13497:13825" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="13905:14176" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="14248:14520" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="14590:14801" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="14893:15585" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="15668:16324" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="16405:17579" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="17630:18413" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="18464:19128" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="19226:19656" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="19725:20021" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="20088:20347" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="20396:20486" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="20542:20733" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="20809:20940" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="20968:21338" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="21404:21823" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="21869:22341" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="22390:22565" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="22609:22688" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="22730:22807" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="22920:28275" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="28319:28517" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="28560:29021" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="29065:29527" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="29596:29830" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="29905:32868" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="32902:32986" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="33020:33664" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="33721:33890" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="33954:34028" ph="{...}" />
-                <marker date="1531248199762" expanded="false" signature="34096:34107" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="34140:34146" ph=" }" />
-                <marker date="1531248199762" expanded="true" signature="34198:34341" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="34408:34504" ph="{...}" />
-                <marker date="1531248199762" expanded="false" signature="34565:34576" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="34606:34612" ph=" }" />
-                <marker date="1531248199762" expanded="true" signature="34647:35191" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="35270:38338" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="38378:38467" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="38506:38834" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="38893:40200" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="40267:41021" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="41071:42676" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="42756:42975" ph="{...}" />
-                <marker date="1531248199762" expanded="false" signature="43007:43018" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="43043:43049" ph=" }" />
-                <marker date="1531248199762" expanded="true" signature="43094:44076" ph="{...}" />
-                <marker date="1531248199762" expanded="false" signature="44130:44141" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="44175:44181" ph=" }" />
-                <marker date="1531248199762" expanded="true" signature="44253:45368" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="45409:45420" ph=" { " />
-                <marker date="1531248199762" expanded="true" signature="45451:45457" ph=" }" />
-                <marker date="1531248199762" expanded="true" signature="45516:45810" ph="{...}" />
-                <marker date="1531248199762" expanded="false" signature="45865:45876" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="45911:45917" ph=" }" />
-                <marker date="1531248199762" expanded="true" signature="45990:47022" ph="{...}" />
-                <marker date="1531248199762" expanded="false" signature="47064:47075" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="47107:47113" ph=" }" />
-                <marker date="1531248199762" expanded="true" signature="47173:47468" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="47524:47839" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="47892:48043" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="48102:48355" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="48411:48565" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="48606:48923" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="49005:49066" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="49178:49428" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="49509:49601" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="49691:49770" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="49859:51049" ph="{...}" />
-                <marker date="1531248199762" expanded="false" signature="51089:51100" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="51140:51146" ph=" }" />
-                <marker date="1531248199762" expanded="true" signature="51177:51474" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="51508:51975" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="52035:52236" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="52294:52646" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="52708:53700" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="53749:54619" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="54712:55168" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="55230:55360" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="55373:55500" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="55588:55951" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="55627:55638" ph="{}" />
-                <marker date="1531248199762" expanded="true" signature="55740:55945" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="56021:59954" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="56106:56117" ph="{}" />
-                <marker date="1531248199762" expanded="true" signature="56218:57247" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="57337:57473" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="57570:58271" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="58382:58569" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="58667:58970" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="59083:59948" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="60020:61338" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="60364:60589" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="60642:60717" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="60783:60863" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="60936:61047" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="61130:61198" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="61264:61332" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="61392:66985" ph="{...}" />
-                <marker date="1531248199762" expanded="false" signature="61521:61569" ph="run() → {" />
-                <marker date="1531248199762" expanded="false" signature="61630:61645" ph="}" />
-                <marker date="1531248199762" expanded="false" signature="61685:61700" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="61727:61737" ph=" }" />
-                <marker date="1531248199762" expanded="false" signature="61793:61808" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="61832:61842" ph=" }" />
-                <marker date="1531248199762" expanded="false" signature="61881:61896" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="61950:61960" ph=" }" />
-                <marker date="1531248199762" expanded="true" signature="62027:62224" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="62280:62398" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="62495:63083" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="63161:63346" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="63388:63643" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="63724:64388" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="64454:64534" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="64562:65697" ph="{...}" />
-                <marker date="1531248199762" expanded="false" signature="65747:65762" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="65775:65785" ph=" }" />
-                <marker date="1531248199762" expanded="true" signature="65855:66291" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="66351:66443" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="66522:66857" ph="{...}" />
-                <marker date="1531248199762" expanded="false" signature="66932:66947" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="66969:66979" ph=" }" />
-                <marker date="1531248199762" expanded="true" signature="67047:68612" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="67310:67794" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="67403:67482" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="67555:67645" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="67711:67784" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="67873:68151" ph="{...}" />
-                <marker date="1531248199762" expanded="false" signature="68210:68225" ph=" { " />
-                <marker date="1531248199762" expanded="false" signature="68243:68253" ph=" }" />
-                <marker date="1531248199762" expanded="true" signature="68313:68606" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="68707:69045" ph="{...}" />
-                <marker date="1531248199762" expanded="true" signature="68747:68758" ph="{}" />
-                <marker date="1531248199762" expanded="true" signature="68830:68841" ph="{}" />
-                <marker date="1531248199762" expanded="true" signature="68895:68906" ph="{}" />
-                <marker date="1531248199762" expanded="true" signature="68960:68971" ph="{}" />
-                <marker date="1531248199762" expanded="true" signature="69028:69039" ph="{}" />
-                <marker date="1531248199762" expanded="true" signature="69083:69296" ph="{...}" />
-              </folding>
+      <file leaf-file-name="fragment_home.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="53" lean-forward="false" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+              <folding />
             </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <file leaf-file-name="home_bottom_navigation.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/home_bottom_navigation.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+            <state relative-caret-position="330">
+              <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -295,49 +123,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <file leaf-file-name="BorrowFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/HomeFragments/BorrowFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="205">
+              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toolbar.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+      <file leaf-file-name="fragment_lend.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_lend.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-designer2">
+          <provider selected="true" editor-type-id="android-designer2">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <file leaf-file-name="LendFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/HomeFragments/LendFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="85" lean-forward="true" selection-start-line="32" selection-start-column="85" selection-end-line="32" selection-end-column="85" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="drawer_view.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/drawer_view.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+      <file leaf-file-name="fragment_calender.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_calender.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-designer2">
+          <provider selected="true" editor-type-id="android-designer2">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalenderFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/HomeFragments/CalenderFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="28" column="27" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="28" selection-end-column="27" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -346,8 +184,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="resourceFile" />
         <option value="layoutResourceFile" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -2380,12 +2218,16 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/drawer_view.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/home_bottom_navigation.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/HomeFragment.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -2428,6 +2270,13 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="can_i_borrow" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="HomeFragments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Can_I_Borrow" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="can_i_borrow" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="MainFragments" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2446,12 +2295,6 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
               <item name="menu" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="Can_I_Borrow" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
             <path>
               <item name="Can_I_Borrow" type="1abcf292:AndroidViewProjectNode" />
@@ -2641,35 +2484,42 @@
       <option name="project" value="LOCAL" />
       <updated>1531784976526</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit gradle">
+      <created>1531785337874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531785337874</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.49361023" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.4914803" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24925521" sideWeight="0.5063898" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35209826" sideWeight="0.08974359" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.038894575" sideWeight="0.497558" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.4978701" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24925521" sideWeight="0.49361023" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35209826" sideWeight="0.9102564" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18636848" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21747765" sideWeight="0.4978701" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21367522" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21747765" sideWeight="0.49574015" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39920557" sideWeight="0.49574015" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2685,10 +2535,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="navigation drawer" />
-    <option name="LAST_COMMIT_MESSAGE" value="navigation drawer" />
+    <MESSAGE value="commit gradle" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit gradle" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -2696,25 +2549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="70" lean-forward="false" selection-start-line="3" selection-start-column="70" selection-end-line="3" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/HomeFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2728,14 +2562,6 @@
       </provider>
       <provider editor-type-id="android-designer2">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/ProfileFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_transaction.xml">
@@ -2791,14 +2617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2981,16 +2799,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="96" column="7" lean-forward="true" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/drawer_view.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -3027,8 +2835,155 @@
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="32" column="85" lean-forward="true" selection-start-line="32" selection-start-column="85" selection-end-line="32" selection-end-column="85" />
+          <caret line="32" column="85" lean-forward="false" selection-start-line="32" selection-start-column="85" selection-end-line="32" selection-end-column="85" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_message.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/HomeFragments/MessageFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_borrow.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_lend.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/HomeFragments/LendFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_calender.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/HomeFragments/CalenderFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="27" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/home_bottom_navigation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/ProfileFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1106">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="53" lean-forward="false" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/HomeFragments/BorrowFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="135" column="62" lean-forward="false" selection-start-line="135" selection-start-column="47" selection-end-line="135" selection-end-column="62" />
+          <folding>
+            <element signature="e#2265#2285#0" expanded="true" />
+            <element signature="e#2288#2309#0" expanded="true" />
+            <element signature="e#3926#4221#0" expanded="true" />
+            <element signature="e#4220#4221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jdocter/can_i_borrow/MainFragments/HomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="56" column="16" lean-forward="true" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2212#3474#0" expanded="true" />
+            <element signature="e#3473#3474#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
