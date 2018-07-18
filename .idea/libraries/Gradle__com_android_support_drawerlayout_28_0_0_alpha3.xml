@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:drawerlayout-28.0.0-alpha3">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/53d9b576860499d9ad27c65876e94bc8/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/53d9b576860499d9ad27c65876e94bc8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/383872d414f02e2cdef191cb443fc4d6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/383872d414f02e2cdef191cb443fc4d6/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
